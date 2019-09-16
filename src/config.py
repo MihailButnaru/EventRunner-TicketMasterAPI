@@ -9,7 +9,7 @@ class Config:
     @property
     def TICKET_MASTER_API_KEY(self):
         """ """
-        return os.getenv('TICKET_MASTER_API_KEY', 'ZgRIqVFQJNHl9nM4DT8DzLXMmXCWPG1A')
+        return os.getenv('TICKET_MASTER_API_KEY', None)
 
     @property
     def TICKET_MASTER_ENDPOINT(self):
