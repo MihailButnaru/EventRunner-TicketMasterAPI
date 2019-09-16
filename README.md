@@ -1,6 +1,6 @@
 <div align="center">
-<h1> Job TicketMaster Events into Postgres </h1>
-<p1>Job runner that allows you to store the events from ticketmaster in your database</p1>
+<h1> TicketMaster Events into Postgres </h1>
+<p1>Runner that allows you to store the events from ticketmaster in your database</p1>
 </div>
 <hr/>
 
