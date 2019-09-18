@@ -21,7 +21,7 @@ $ pip install - requirements.txt
 ```
 
 ## Samples
-A short example how to use the runner
+A short example how to use the runner, you can check the sample too
 ```
 from src.job import JobRunner
 
